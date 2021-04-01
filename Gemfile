@@ -6,7 +6,6 @@ gem 'activesupport'
 gem 'activerecord'
 gem 'bcrypt'
 
-gem 'sinatra'
 gem 'sinatra-contrib'
 gem 'sinatra-activerecord'
 
